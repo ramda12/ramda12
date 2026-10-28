@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**ramda12/ramda12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Ramda Amaneth 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Final-Year Software Engineering Student
+
+Aspiring Software Engineer | Web Development | Problem Solving
+
+I am a final-year Software Engineering student interested in
+building useful software applications and solving real-world problems.
+
+- 🎓 Studying Software Engineering
+- 💻 Learning software development and Git
+- 🚀 Working on academic and personal projects
+- 🌱 Improving my coding and problem-solving skills
+- 🎯 Looking for a Software Engineering Internship
+
+### Technical Skills
+
+- Languages: Add your actual programming languages
+- Frontend: Add your actual frontend technologies
+- Backend: Add your actual backend technologies
+- Database: Add your actual database technologies
+- Tools: Git, GitHub, VS Code
+
+### Featured Projects
+
+- Smart Dam Alert System with Automated Gate Control
+- Add your completed web or software project here
+- Add another project you have built
+
+### Connect With Me
+
+- GitHub: https://github.com/ramda12
+- LinkedIn: Add your LinkedIn profile URL
+- Email: Add your professional email address
+
+</div>
