@@ -32,7 +32,7 @@ building useful software applications and solving real-world problems.
 ### Connect With Me
 
 - GitHub: https://github.com/ramda12
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email address
+- LinkedIn: www.linkedin.com/in/ramda-amaneth
+- Email: ramda22amanth@gmail.com
 
 </div>
